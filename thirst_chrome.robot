@@ -33,6 +33,11 @@ Google "thirst launchaco" and try to find it from the results
     [Documentation]  Googling thirst and analyzing the results
     [Tags]  thirst  smoke
     Google and check results    thirst launchaco  thirst.launchaco.com
+    
+Google "thirst launchaco new" and try to find it from the results
+    [Documentation]  Googling thirst and analyzing the results
+    [Tags]  thirst  smoke
+    Google and check results    thirst launchaco new  thirst.launchaco.com
 
     
 
